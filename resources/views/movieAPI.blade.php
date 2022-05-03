@@ -7,9 +7,10 @@
             <h1>Movie API</h1>
             <img src="img/movieAPI.png" alt="movieAPI" width="800" class="img-fluid pb-3">
             <div class="d-grid gap-2 d-md-block">
-            <br><a href="bloggerRedirect" target="__blank"> <button class="btn btn-success btn-lg" type="button" >Tampilkan Website</button></a>
-            <a href="bloggerGit" target="__blank"><button class="btn btn-lg btn-warning" type="button">Tampilkan GitHub</button></a>
+            <br><a href="movieRedirect" target="__blank"> <button class="btn btn-success btn-lg" type="button" >Tampilkan Website</button></a>
+            <a href="movieGit" target="__blank"><button class="btn btn-lg btn-warning" type="button">Tampilkan GitHub</button></a>
             </div>
+            <h3 class="pt-3 text-secondary">April 2022 - April 2022</h3>
         </div>
     </div>
     <div class="row justify-content-center pt-5">

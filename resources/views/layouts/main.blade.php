@@ -50,7 +50,9 @@
 
     <!-- Akhir Navbar -->
 
+    {{-- Isi Konten --}}
     @yield('content')
+    {{-- Akhir isi Konten --}}
 
     <!-- Contact -->
     <section id="contact" style="{{ Request::is('/') ? '' : 'display:none'}}"  >

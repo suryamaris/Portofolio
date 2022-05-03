@@ -115,7 +115,7 @@
               <div class="pic">
                 <img src="img/movieAPI.png" class="card-img-top" alt="movieAPI" />
                 <div class="overlay"></div>
-                <div class="button"><a href="movieAPI">Lihat Selengkapnya </a></div>
+                <div class="button"><a href="movieAPI" >Lihat Selengkapnya </a></div>
               </div>
               <div class="card-body">
                 <h4 class="card-text"><b>Movie API</b></h4>

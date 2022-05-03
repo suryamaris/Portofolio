@@ -35,9 +35,36 @@ Route::get('/kas', function () {
 Route::get('/project6', function () {
     return view('project6');
 });
-Route::get('/bloggerRedirect', function () {
+
+// Movie API
+Route::get('/movieRedirect', function () {
     return redirect('http://localhost:8080/rest-api/movie-api/');
 });
-Route::get('/bloggerGit', function () {
+Route::get('/movieGit', function () {
     return redirect('https://github.com/suryamaris/learn-rest-api/tree/main/movie-api');
+});
+
+// Blogger
+Route::get('/bloggerRedirect', function () {
+    return redirect('http://coba-laravel.test/blog');
+});
+Route::get('/bloggerGit', function () {
+    return redirect('https://github.com/suryamaris/Learn-Laravel-Blog-Website-');
+});
+
+
+// Hosting
+Route::get('/hostingRedirect', function () {
+    return redirect('http://localhost:8080/hosting/datahosting/sistem');
+});
+Route::get('/hostingGit', function () {
+    return redirect('https://github.com/suryamaris/Pemilihan-Hosting-Metode-MOORA');
+});
+
+// Kepebgawaian
+Route::get('/kepegawaianRedirect', function () {
+    return redirect('http://localhost:8080/pegawai/');
+});
+Route::get('/kepegawaianGit', function () {
+    return redirect('https://github.com/suryamaris/kepegawaian');
 });
