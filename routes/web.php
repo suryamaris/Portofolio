@@ -61,10 +61,15 @@ Route::get('/hostingGit', function () {
     return redirect('https://github.com/suryamaris/Pemilihan-Hosting-Metode-MOORA');
 });
 
-// Kepebgawaian
+// Kepegawaian
 Route::get('/kepegawaianRedirect', function () {
     return redirect('http://localhost:8080/pegawai/');
 });
 Route::get('/kepegawaianGit', function () {
     return redirect('https://github.com/suryamaris/kepegawaian');
+});
+
+// kas
+Route::get('/kasGit', function () {
+    return redirect('https://github.com/suryamaris/Kas-Klinik-MySqlDB');
 });

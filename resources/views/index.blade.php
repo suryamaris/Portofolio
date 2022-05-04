@@ -119,7 +119,8 @@
               </div>
               <div class="card-body">
                 <h4 class="card-text"><b>Movie API</b></h4>
-                <p>Website untuk belajar sistem REST API dari Web Programming Unpas. Website ini menampilkan data film yang diambil memnggunakan API dari omdb </p>
+                <h6 class="text-secondary">April 2022</h6>
+                <p>Website untuk belajar sistem REST API dari Web Programming Unpas. </p>
               </div>
             </div>
           </div>
@@ -132,20 +133,8 @@
               </div>
               <div class="card-body">
                 <h4 class="card-text"><b>Blogger Website</b></h4>
-                <p class="card-text">Belajar membuat website menggunakan Laravel dari Web Programming Unpas. Website ini  menjalankan dan menampilkan sistem manajemen sebuah blog website menggunakan framework Laravel </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 mb-3">
-            <div class="card">
-              <div class="pic">
-                <img src="img/kepegawaian.png" class="card-img-top" alt="kepegawaian" />
-                <div class="overlay"></div>
-                <div class="button"><a href="kepegawaian">Lihat Selengkapnya </a></div>
-              </div>
-              <div class="card-body">
-                <h4 class="card-text"><b>Sistem Informasi Kepegawaian</b></h4>
-                <p class="card-text">Website yang berfungsi sebagai sistem informasi pada sebuah perusahaan.</p>
+                <h6 class="text-secondary">April 2022</h6>
+                <p class="card-text">Belajar membuat website menggunakan Laravel dari Web Programming Unpas. </p>
               </div>
             </div>
           </div>
@@ -158,7 +147,22 @@
               </div>
               <div class="card-body">
                 <h4 class="card-text"><b>SPK Hosting</b></h4>
+                <h6 class="text-secondary">Januari 2022</h6>
                 <p class="card-text">Website sistem pendukung keputusan pemilihan web hosting terbaik</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <div class="pic">
+                <img src="img/kepegawaian.png" class="card-img-top" alt="kepegawaian" />
+                <div class="overlay"></div>
+                <div class="button"><a href="kepegawaian">Lihat Selengkapnya </a></div>
+              </div>
+              <div class="card-body">
+                <h4 class="card-text"><b>Sistem Informasi Kepegawaian</b></h4>
+                <h6 class="text-secondary">Agustus 2021</h6>
+                <p class="card-text">Website yang berfungsi sebagai sistem informasi pada sebuah perusahaan.</p>
               </div>
             </div>
           </div>
@@ -171,6 +175,7 @@
               </div>
               <div class="card-body">
                 <h4 class="card-text"><b>Kas Klinik</b></h4>
+                <h6 class="text-secondary">Januari 2021</h6>
                 <p class="card-text">Aplikasi desktop pengolahan kas dan laporan kas sebuah klinik</p>
               </div>
             </div>
